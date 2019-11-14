@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
 
   s.platform     = :ios, '9.0'
   s.requires_arc = true
-  s.swift_version = "4"
+  s.swift_version = "4.2"
 
   s.source_files = 'HorizontalPicker/Classes/**/*'
 end
